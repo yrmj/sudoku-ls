@@ -1,0 +1,19 @@
+{
+  "name": "sudoku-ls",
+  "version": "0.1.0",
+  "description": "A LiveScript sudoku solver, based on Peter Norvig's famous constraint-based implementation.",
+  "main": "sudoku.js",
+  "dependencies": {
+    "prelude-ls": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sudoku",
+    "livescript"
+  ],
+  "author": "Malcolm Jones",
+  "license": "ISC"
+}
